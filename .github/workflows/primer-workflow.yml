@@ -1,5 +1,5 @@
 # nombre
-name: CI
+name: Primer Workflow
 
 # eventos
 on:
